@@ -1,2 +1,2 @@
 # test_produzione
-repository per rilasci in prod
+repository per rilasci in sviluppo
